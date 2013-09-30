@@ -10,4 +10,4 @@ tags:
 
 ---
 
-Markdown 语法，详见：http://markdown.tw/
+Markdown 语法，详见：[http://markdown.tw/](http://)
