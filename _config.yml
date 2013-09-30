@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://gavin-gs.github.com
+author: gavin
+pygments: true
+paginate: 24
